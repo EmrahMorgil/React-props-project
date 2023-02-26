@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+}
+.nav-header{
+    font-size: 25px;
+}
+.navbar-brand{
+    margin-left: 15%;
+}
+.navbar-nav{
+    margin-right: 20%;
+    font-size: 20px;
+}
+.cards{
+    margin: 5% 13% 0% 13%;
+}
+.card{
+    text-align: center;
+    margin-bottom: 7%;
+}
+.card-img-top{
+    width: 250px;
+    height: 200px;
+}
+.shop-icon{
+    width: 20px;
+    height: 20px;
+}
+.heart-icon{
+    width: 20px;
+    height: 20px;   
+}
+.whiteshop-icon{
+    width: 30px;
+    height: 30px;
+}
